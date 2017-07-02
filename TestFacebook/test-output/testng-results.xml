@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39997" started-at="2017-07-02T18:36:47Z" finished-at="2017-07-02T18:37:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39997" started-at="2017-07-02T18:36:47Z" finished-at="2017-07-02T18:37:27Z">
+      <class name="com.facebook.tests.TestCases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.facebook.tests.TestCases@3ffc5af1]" name="setup" is-config="true" duration-ms="6914" started-at="2017-07-02T21:36:47Z" finished-at="2017-07-02T21:36:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Facebook()[pri:0, instance:com.facebook.tests.TestCases@3ffc5af1]" name="test_Facebook" duration-ms="32131" started-at="2017-07-02T21:36:54Z" finished-at="2017-07-02T21:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Facebook -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.facebook.tests.TestCases@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="933" started-at="2017-07-02T21:37:26Z" finished-at="2017-07-02T21:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.facebook.tests.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
